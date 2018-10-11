@@ -20,7 +20,7 @@ int main(void)
 		}
 		if(dem>max)
 			max=dem;
-		dem=0;
+		dem=1;
 	}
 	printf("%d",max);
  return 0;
